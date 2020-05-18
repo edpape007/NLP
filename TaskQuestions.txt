@@ -5,15 +5,23 @@ Background, why is it novel
 Data Sets
  - Training Data: Wikipedia Dumps in 9 languages (Arabic, Czech, German, English, Spanish, French, Italian, Romanian, Russian)
  - Test Data: 
+	- English word analogy: http://www.fit.vutbr.cz/~imikolov/rnnlm/word-test.v1.txt
 Tasks
  - Word Representation Tasks (Encoding)
 Approach, Baselines, Methods
- - 
+ - Baseline: 
+	- Human Similarity - using the cosine similarity between words to compare to human graded "relatedness" (Spearman's Rank Correlation)
+	- Word Analogy - 
+	- Morphological - Luong, Qiu, Soricut and Och, Botha and Blumson
+	- Effect of size of training data - 
+	- Effect of size of n-gram - 
+	- Language modeling - 
 Notable Tricks
 Measurability
 Quantitative Results
 Qualitative Results
 Is there an error analysis?
+ - No?
 What’s next?
 Do you believe it? Do I see problems?
 Where do they cheat?
@@ -24,3 +32,10 @@ What are weaknesses?
 Impactful? Are there any Enterprise solutions that apply it?
 Who cited it? Semantic Scholar
  - https://www.semanticscholar.org/paper/Enriching-Word-Vectors-with-Subword-Information-Bojanowski-Grave/e2dba792360873aef125572812f3673b1a85d850
+
+
+
+
+
+What is the difference between semantic and syntactic measure for word analogy baseline dataset?
+What does equation in 6.2 mean? How do they weight certain n-grams?
