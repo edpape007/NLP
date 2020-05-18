@@ -1,0 +1,26 @@
+Who is it? Where was it published?
+Why is it relevant? Why did they write it?
+Main Contribution
+Background, why is it novel
+Data Sets
+ - Training Data: Wikipedia Dumps in 9 languages (Arabic, Czech, German, English, Spanish, French, Italian, Romanian, Russian)
+ - Test Data: 
+Tasks
+ - Word Representation Tasks (Encoding)
+Approach, Baselines, Methods
+ - 
+Notable Tricks
+Measurability
+Quantitative Results
+Qualitative Results
+Is there an error analysis?
+What’s next?
+Do you believe it? Do I see problems?
+Where do they cheat?
+Can you apply it? Is code and data available? 
+ - https://github.com/facebookresearch/fastText
+What are weaknesses?
+ - This method lacks the contextual information gathered in the RNN or Transformer models
+Impactful? Are there any Enterprise solutions that apply it?
+Who cited it? Semantic Scholar
+ - https://www.semanticscholar.org/paper/Enriching-Word-Vectors-with-Subword-Information-Bojanowski-Grave/e2dba792360873aef125572812f3673b1a85d850
