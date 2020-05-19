@@ -1,5 +1,6 @@
 Who is it? Where was it published?
 Why is it relevant? Why did they write it?
+ - Accuracy and 
 Main Contribution
 Background, why is it novel
 Data Sets
@@ -21,7 +22,7 @@ Measurability
 Quantitative Results
 Qualitative Results
 Is there an error analysis?
- - No?
+ - No? (confirmed by BW)  they just show why theirs is better which is a big problem with how 
 What’s next?
 Do you believe it? Do I see problems?
 Where do they cheat?
@@ -38,4 +39,17 @@ Who cited it? Semantic Scholar
 
 
 What is the difference between semantic and syntactic measure for word analogy baseline dataset?
+ - definition is difficult
+ - 
 What does equation in 6.2 mean? How do they weight certain n-grams?
+
+Benjamin Winter Expectations for Presentation:
+-Must feel that we have understood the paper
+-Why is the paper important (how does this new contribution improve the state of the art)  How has it made things worse?
+-How is it used now?  (recommend looking at papers that reference this and improve upon it)
+
+BW Notes: Videoconference 19.05.2020
+This model is important because of how well it models rare or never seen words
+Recommend covering more of why the model is important, rather than covering all of the different comparisons to baselines
+Compare this model to the model in http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf.  And mention these types of "papers of the time" in the presentation.  Also make sure to mention the skipgram model in general as a precursor to this paper. These are the bases for this paper.
+Recommend including the skipgram equation or the scoring function on Pg.3.
