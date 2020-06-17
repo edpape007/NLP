@@ -40,7 +40,8 @@ Who cited it? Semantic Scholar
 
 What is the difference between semantic and syntactic measure for word analogy baseline dataset?
  - definition is difficult
- - 
+ - See email from B. Winter
+ 
 What does equation in 6.2 mean? How do they weight certain n-grams?
 
 Benjamin Winter Expectations for Presentation:
