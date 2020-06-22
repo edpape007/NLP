@@ -43,6 +43,7 @@ What is the difference between semantic and syntactic measure for word analogy b
  - See email from B. Winter
  
 What does equation in 6.2 mean? How do they weight certain n-grams?
+	- BW said not to get to this level of detail
 
 Benjamin Winter Expectations for Presentation:
 -Must feel that we have understood the paper
